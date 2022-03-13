@@ -1,8 +1,8 @@
 ---
-namespace: "gepaplexx"
+namespace: "neilcar"
 name: "microk8s"
 readme: "README.md"
-version: "1.0.0"
+version: "1.0.4"
 authors:
   - "fhochleitner (https://github.com/fhochleitner)"
   - "ckaserer (https://github.com/ckaserer)"
@@ -10,5 +10,5 @@ dependencies:
   "community.general": "*"
 license:
   - "MIT"
-repository: "https://www.github.com/gepaplexx/ansible-role.microk8s"
+repository: "https://www.github.com/neilcar/ansible-role.microk8s"
 ...
